@@ -1,3 +1,3 @@
 # bootstrap-new
 
-Чистый Bootstrap для начала верски
+Чистый Bootstrap для начала верстки
